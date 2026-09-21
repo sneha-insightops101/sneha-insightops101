@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 Executive Summary
+## 👨‍💻 About Me
 
 I am a **Senior Analyst, Cybersecurity Engineering & Operations | Dell Technologies**, focused on **vulnerability management, incident resolution, asset inventory governance, and security automation**.
 
