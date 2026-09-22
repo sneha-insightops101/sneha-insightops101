@@ -125,11 +125,20 @@ Operational automation • Data analysis • Security dashboards • API integra
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/06402B/sneha-insightops101" alt="Sneha's GitHub contribution chart" width="800" />
+<img src="https://ghchart.rshah.org/06402B/sneha-insightops101"
+alt="Sneha's GitHub Contribution Chart"
+width="800" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sneha-insightops101&theme=tokyonight&hide_border=true" alt="Sneha's GitHub contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sneha-insightops101&theme=tokyonight&hide_border=true"
+alt="Sneha's GitHub Contribution Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sneha-insightops101&theme=tokyonight"
+alt="Sneha's GitHub Profile Summary"
+width="800" />
 
 </div>
 
